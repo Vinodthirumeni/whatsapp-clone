@@ -67,8 +67,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
-
-
 PROJECT NAME : Whatsapp Clone
 
 TOOLS USED : ReactJs,Material UI,Firebase,Context API,React Router DOM
@@ -79,6 +77,7 @@ DELETE UNWANTED STUFFS FROM PROJECT FOLDER : Delete unwanted files and thier dep
 delete app.test.js,logo.svg,setuptests.js and delete that dependencies in App.js as well
 
 3rd PARTY PLUGIN
+
 	Install Material UI(For icons and components)
 		npm install @material-ui/core
 		npm install @material-ui/icons
@@ -101,3 +100,5 @@ DATABASE & DEPLOYMENT
 	> firebase deploy
 
 Note: npm i firebase (If not working try this and continue npm cache clean --force)
+
+Live Link : https://whatsapp-clone-265ad.web.app
